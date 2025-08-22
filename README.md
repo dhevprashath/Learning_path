@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🎓 Learning Path Generator
 
 A powerful AI-driven learning path generator that creates personalized study plans with **daily YouTube playlists** and sends comprehensive PDF notes via email.
@@ -290,3 +291,6 @@ This project is open source and available under the [MIT License](LICENSE).
 **Happy Learning! 🎓✨**
 
 
+=======
+# Learning_path
+>>>>>>> 867a46d8b86242e5c2a6323140b3241a8ef906b8
